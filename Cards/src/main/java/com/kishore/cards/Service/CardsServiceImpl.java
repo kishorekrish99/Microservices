@@ -22,8 +22,6 @@ public class CardsServiceImpl implements ICardService {
 
     private CardsRepository cardsRepository;
 
-    
-    
     public void createCard(String mobileNumber) {
         Optional<Cards> optionalCards= cardsRepository.findByMobileNumber(mobileNumber);
         if(optionalCards.isPresent()){
