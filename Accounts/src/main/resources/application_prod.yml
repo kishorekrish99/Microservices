@@ -1,0 +1,19 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bank accounts related Prod APIs "
+  contactDetails:
+    name: "Sam - Product Owner"
+    email: "Sam@gmail.com"
+  onCallSupport:
+    - (666) 775-8888
+    - (555) 434-3333
+    

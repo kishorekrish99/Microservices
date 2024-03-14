@@ -15,4 +15,22 @@ spring:
     hibernate :
       ddl-auto: update
     show-sql: true
+  config:
+    import:
+      - "application_qa.yml"
+      - "application_prod.yml"
+  profiles:
+    active:
+      - "qa"
 
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Bank cards related local APIs "
+  contactDetails:
+    name: "Kishore Uputoori - Developer"
+    email: "kishoreuputoori@gmail.com"
+  onCallSupport:
+    - (816) 927-9883
+    - (817) 928-9884
