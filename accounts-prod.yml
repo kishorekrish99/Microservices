@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to Bank accounts related Prod APIs "
   contactDetails:
     name: "Sam - Product Owner"
-    email: "Sam@gmail.com"
+    email: "{cipher}efd6f27b3fb833da438fc29d963aa55941a14850172474a8b11d8c677b91d5d5"
   onCallSupport:
     - (666) 775-8888
     - (555) 434-3333
