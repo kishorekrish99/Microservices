@@ -1,0 +1,17 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Bank accounts related local APIs "
+  contactDetails:
+    name: "Kishore Uputoori - Developer"
+    email: "Kishoreuputoori@gmail.com"
+  onCallSupport:
+    - (816) 927-9883
+    - (817) 928-9884
+    
+
+    
+    
+    

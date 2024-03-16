@@ -1,0 +1,13 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank accounts related QA APIs "
+  contactDetails:
+    name: "John - QA Lead"
+    email: "John@gmail.com"
+  onCallSupport:
+    - (666) 777-8888
+    - (555) 444-3333
+    
