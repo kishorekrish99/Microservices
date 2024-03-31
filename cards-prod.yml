@@ -3,8 +3,8 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Bank cards related Prod APIs "
-  contactDetails:
+  message: "Welcome to Bank cards related Webhook APIs "
+  contact-details:
     name: "Sandra Harald - Product Owner"
     email: "sandra@bank.com"
   onCallSupport:
